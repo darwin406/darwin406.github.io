@@ -1,5 +1,11 @@
 papers:
 
+  - title: "Learned Image Compression for Vision-Language-Action Models"
+    authors: "Hyeonjun Kim, Jegwang Ryu, <b>Sangbeom Ha</b>, Junhyeok Lee, Jun-Hyuk Kim, Hyemin Ahn, Jaeho Lee"
+    venue: "arXiv preprint, 2026"
+    arxiv: "https://arxiv.org/abs/2606.16253"
+    selected: "y"
+
 
 #  - title: "Development of an English-Macedonian Machine Readable Dictionary by Using Parallel Corpora"
 #    authors: "<b>Martin Saveski</b>, Igor Trajkovski"
